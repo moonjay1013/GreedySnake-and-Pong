@@ -6,8 +6,9 @@ Windows Console  (C++ 11)
 Libraries：
 - stdlib.h
 - conio.h
-- windows.h
+- Windows.h
 - time.h
+- ctype.h  // 'toupper' function
 
 
 Pong Game: change the character '#' and 'o' to others
@@ -27,4 +28,7 @@ Pong Game: change the character '#' and 'o' to others
    > '\u2588' : █ : player
    > 
    > '\u25CB' : ○ : ball
+
+---
+TicTacToe game
  
