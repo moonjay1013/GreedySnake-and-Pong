@@ -10,6 +10,7 @@ Libraries：
 - time.h
 - ctype.h  // 'toupper' function
 
+---
 
 Pong Game: change the character '#' and 'o' to others
 1. cmd, INPUT 'charmap'
@@ -29,6 +30,4 @@ Pong Game: change the character '#' and 'o' to others
    > 
    > '\u25CB' : ○ : ball
 
----
-TicTacToe game
  
